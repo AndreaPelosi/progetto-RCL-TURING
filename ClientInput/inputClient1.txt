@@ -1,0 +1,13 @@
+turing register pippo unipi1
+turing register pluto unipi2
+turing login pippo unipi1
+turing create Documento 3
+turing share Documento pluto
+turing show Documento -1
+turing create Presentazione 5
+turing list
+turing edit Documento 1
+turing send "mi occuperò di editare la prima sezione"
+turing receive
+turing end-edit Documento 1
+turing logout

@@ -1,0 +1,11 @@
+turing register pippo unipi1
+turing register pippo unipi1
+turing login pippo unipi3
+turing login pippo unipi1
+turing create Doc 4
+turing edit Doc 10
+turing end-edit Doc 3
+turing edit Doc 3
+turing end-edit Doc 3
+turing send "ciao a tutti"
+turing logout

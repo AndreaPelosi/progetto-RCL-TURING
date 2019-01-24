@@ -1,0 +1,11 @@
+turing register pippo unipi1
+turing register pluto unipi2
+turing login pippo unipi1
+turing create Prova -1
+turing share Prova pluto
+turing edit Prova 2
+turing send "qualcun altro sta editando il documento?"
+turing send "sembra che non ci sia nessuno..."
+turing receive
+turing end-edit Prova 2
+turing logout

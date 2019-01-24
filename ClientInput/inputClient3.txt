@@ -1,0 +1,5 @@
+turing login pluto unipi2
+turing list
+turing edit Prova 4
+turing end-edit Prova 4
+turing logout
